@@ -1,0 +1,18 @@
+[
+    {
+        "author": "u/charlyAtWork2",
+        "body": "short version : pydandicAI do several llms calls and step. For a simple inference you paid 5 time the price."
+    },
+    {
+        "author": "u/Winter-Seesaw6919",
+        "body": "I use pydantic ai, we can restrict the calls by setting them in retries argument."
+    },
+    {
+        "author": "u/charlyAtWork2",
+        "body": "You didn't miss anything. They abstract/hide the multi step process. Then for a simple call, you need extra effort."
+    },
+    {
+        "author": "u/No_Soy_Colosio",
+        "body": "This already exists. What makes this better?"
+    }
+]

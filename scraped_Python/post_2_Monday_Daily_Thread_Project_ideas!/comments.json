@@ -1,0 +1,10 @@
+[
+    {
+        "author": "u/KEinstein73",
+        "body": "Project Idea: Anki Add-on Difficulty: Advanced Tech Stack: Python, HTML, CSS Description: Create an Anki add-on where a flower sits at the bottom right corner of the cards and grows as the user completes more cards. It includes supportive animations that respond to activity and help motivate continued progress."
+    },
+    {
+        "author": "u/AlSweigart",
+        "body": "One of my latest ideas for a project I don't have time to work on is a clipboard editor app. Every time the text contents on the clipboard is changed, the program reads it, passes it some user-defined custom Python function, and the return value of the function becomes the new clipboard contents."
+    }
+]
